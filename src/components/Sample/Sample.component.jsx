@@ -31,7 +31,7 @@ export const Sample = () => (
       Bought a new game? Why havent you told me? I can tell if a game is good or
       not just by his case. Do you live in Arizona? I can work as an air
       conditioner too. Lets drive an icecream trailer and spread joy while
-      everyone is locked at home
+      everyone is locked at home bla bla
     </Text>
     <SocialContainer>
       <Linkedin />
